@@ -1,0 +1,27 @@
+MAIN_TITLE
+  {
+  TITLE1
+    {
+    SECTION1.1
+      {
+      test1
+      TEXT
+        {
+        test2
+        }
+      TEXT1
+      }
+    TEXT0
+    SECTION1.2
+      {
+      TEXT
+      }
+    }
+  TITLE2
+    {
+    SECTION2.1
+      {
+      TEXT
+      }
+    }
+  }

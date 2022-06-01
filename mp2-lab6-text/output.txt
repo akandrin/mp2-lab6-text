@@ -1,0 +1,14 @@
+MAIN_TITLE
+  {
+  TITLE1
+    {
+    SECTION1.1
+      {
+      TEXT
+      }
+    SECTION1.2
+      {
+      TEXT
+      }
+    }
+  }
